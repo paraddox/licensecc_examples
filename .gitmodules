@@ -1,11 +1,11 @@
 [submodule "submodule/extern/open-license-manager"]
 	path = submodule/extern/open-license-manager
-	url = https://github.com/open-license-manager/licensecc.git
+	url = https://github.com/paraddox/licensecc.git
 	branch = .
 	ignore = all
-	
+
 [submodule "program_features/extern/licensecc"]
 	path = program_features/extern/licensecc
-	url = https://github.com/open-license-manager/licensecc.git
+	url = https://github.com/paraddox/licensecc.git
 	branch = develop
 	ignore = all
